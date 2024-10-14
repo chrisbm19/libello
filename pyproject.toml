@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=69.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "libello"
+version = "0.0.1"
+authors = [
+  { name="Christopher Mitchell", email="christopher.mitchell.business@gmail.com" },
+]
+description = "A package that enables the making of custom character sheets for TTRPG characters."
+readme = "README.md"
+requires-python = ">=3.12.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU Affero General Public License v3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = ""
+Issues = ""
