@@ -1,5 +1,7 @@
-.coverage
 .pytest_cache/
+libello/__pycache__/
 tests/__pycache__/
 coverage.xml
 report.html
+.coverage
+dev_utils/
