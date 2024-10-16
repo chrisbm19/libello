@@ -1,0 +1,6 @@
+pytest
+pytest-cov
+build
+twine
+nicegui
+tinydb
