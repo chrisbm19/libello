@@ -3,4 +3,4 @@ placeholder readme
 
 ## Testing
 ### Unit Testing
-Command: ```pytest --cov=libello --cov-report xml:coverage.xml tests```
+Simply run ```pytest``` in the root directory of the project. Configuration for pytest is already specified in ```pytest.ini```.
